@@ -1,6 +1,6 @@
 # Trabajo Final   
-Fundamentos de Programación   
-2022-2-Módulo   
+## Fundamentos de Programación   
+## 2022-2-Módulo   
 ***Nombre del Proyecto : Reporte estadístico de costos de fundición***
 ***Presentada por:***        
 * Gutierrez Tacora, Anali Morelia 
